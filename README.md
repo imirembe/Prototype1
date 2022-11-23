@@ -1,7 +1,7 @@
 # Prototype1
 First Game built with unity
 
-A simpel game of driving down a road 
+A simple game of driving down a road 
 
 Controls 
 WASD
